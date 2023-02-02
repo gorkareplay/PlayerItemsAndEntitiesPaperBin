@@ -1,5 +1,5 @@
 # PlayerItemsPaperBin
- Это пятая версия ресурспака на смену текстуры при переименовывании.
+ Это шестая версия ресурспака на смену текстуры при переименовывании.
  
  1. Элитры от gorkareplay. При переименовании элитр в:"Плащ" элитрам
  добавиться текстура, как в директории PlayerItemsPaperBin/textures/texture1.png
@@ -14,5 +14,7 @@
  кирке добавиться текстура, как в директории PlayerItemsPaperBin/textures/texture4.png
  
  5. Элитры от bebrik228egorkin. При переименовании элитр в:"Whie CU..."
- (название такое так как bebrik228egorkin не хочет мне писать название)
  элитрам добавиться текстура, как в директории PlayerItemsPaperBin/textures/texture5.png
+
+ 6. Тотем от PrivetPopsik. При переименовании тотема в:"Тянтем"
+ тотему добавиться текстура, как в директории PlayerItemsPaperBin/textures/texture6.png
