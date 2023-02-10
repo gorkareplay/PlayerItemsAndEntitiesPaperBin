@@ -1,4 +1,4 @@
-# PlayerItemsPaperBin
+# PlayerItemsAndEntitiesPaperBin
  Это двенадцатая версия ресурспака на смену текстуры при переименовывании для игроков сервера PaperBin.
 
 # Установка
