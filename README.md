@@ -1,5 +1,5 @@
 # PlayerItemsAndEntitiesPaperBin
- Это двенадцатая версия ресурспака на смену текстуры при переименовывании для игроков сервера PaperBin.
+ Это пятнадцатая версия ресурспака на смену текстуры при переименовывании для игроков сервера PaperBin.
 
 # Установка
  1. Чтобы ресурспак заработал вам нужно достать папку PlayerItemsPaperBin из той папки,
@@ -39,6 +39,15 @@
  11. Незеритовый нагрудник от YTpooshistic. При переименовании нагрудника в:"РАБОЧАЯ ФОРМА НЕГРА"
  нагруднику добавиться текстура, как в директории PlayerItemsPaperBin-main/textures/texture11.png
 
+ 12. Бутылка мёда от SladkijPupsik. При переименовании бутылки в:"Miau"
+ бутылке добавиться текстура, как в директории PlayerItemsPaperBin-main/textures/texture13.png
+
+ 13. Тотем от SladkijPupsik. При переименовании тотема в:"Cartman"
+ тотему добавиться текстура, как в директории PlayerItemsPaperBin-main/textures/texture14.png
+
+ 14. Тотем от PrivetPopsik. При переименовании тотема в:"Тянка Этого Мира"
+ тотему добавиться текстура, как в директории PlayerItemsPaperBin-main/textures/texture15.png
+
 # Существа
  1. Разбойник от YTpooshistic. При переименовании разбойника в:"YTpooshistic" 
  разбойнику добавиться текстура, как в директории PlayerItemsPaperBin-main/textures/texture12.png
@@ -57,7 +66,7 @@
  4. Discord tautvidas223#7502, ник в Майнкрафт Emilist19955 - игрок сервера PaperBin
  и создатель текстуры для предмета №4, Сила.
 
- 5. Discord Чо#8320, ник в Майнкрафт bebrik228egor - игрок сервера PaperBin и создатель
+ 5. Discord Chamber#0590, ник в Майнкрафт bebrik228egor - игрок сервера PaperBin и создатель
  текстуры для предмета №5, White CU... .
 
  6. Discord FurryDemonX#4877, ник в Майнкрафт PrivetPopsik - игрок сервера PaperBin
