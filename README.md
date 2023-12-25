@@ -1,5 +1,5 @@
 # PlayerThingsPaperBin
- Это версия ресурспака 2.0.2 В ЧЕСТЬ ВТОРОГО СЕЗОНА ВЕЛИКОГО PaperBin на смену текстуры
+ Это версия ресурспака 2.0.3 В ЧЕСТЬ ВТОРОГО СЕЗОНА ВЕЛИКОГО PaperBin на смену текстуры
  при переименовывании для игроков сервера PaperBin.
 
  Если вы хотите добавить свой предмет, то нарисуйте текстуру и напишите мне название и что это за предмет.
@@ -32,19 +32,23 @@
  стреле добавиться текстура, как в директории PlayerThingsPaperBin-main/item/item7.png
 
  8. Бутылка мёда от SladkijPupsik. При переименовании бутылки в:"Miau"
- бутылке добавиться текстура, как в директории PlayerThingsPaperBin-main/item/item9.png
+ бутылке добавиться текстура, как в директории PlayerThingsPaperBin-main/item/item8.png
 
  9. Тотем от SladkijPupsik. При переименовании тотема в:"Cartman"
- тотему добавиться текстура, как в директории PlayerThingsPaperBin-main/item/item10.png
+ тотему добавиться текстура, как в директории PlayerThingsPaperBin-main/item/item9.png
 
  10. Тотем от PrivetPopsik. При переименовании тотема в:"Тянка Этого Мира"
- тотему добавиться текстура, как в директории PlayerThingsPaperBin-main/item/item11.png
+ тотему добавиться текстура, как в директории PlayerThingsPaperBin-main/item/item10.png
 
  11. Незеритовый меч от lkgamer228. При переименовании меча в:"Katana"
- мечу добавиться текстура, как в директории PlayerThingsPaperBin-main/item/item12.png
+ мечу добавиться текстура, как в директории PlayerThingsPaperBin-main/item/item11.png
 
  12. Хлеб от Borshevey. При переименовании хлеба в:"Доширак"
- хлебу добавиться текстура, как в директории PlayerThingsPaperBin-main/item/item13.png
+ хлебу добавиться текстура, как в директории PlayerThingsPaperBin-main/item/item12.png
+
+ 13. Тотем от gorkareplay. При переименовании тотема в:"gorkareplay"
+ тотему добавиться текстура, как в директории PlayerThingsPaperBin-main/item/item13.png
+
 
 # Элитры
  1. Элитры от gorkareplay. При переименовании элитр в:"Плащ" элитрам
@@ -55,7 +59,7 @@
  
 # Титры
  1. Discord gorkareplay, ник в Майнкрафт gorkareplay - я, разработчик этого ресурспака,
- игрок первого и второго сезона сервера PaperBin и создатель текстуры для элитр №1, Плащ.
+ игрок первого и второго сезона сервера PaperBin, создатель текстуры для элитр №1, Плащ и текстуры для предмета №13, gorkareplay.
  
  2. Discord ytPooshistic, ник в Майнкрафт YTpooshistic - игрок первого и второго сезона, админ и создатель
  сервера PaperBin и создатель текстур для предметов №1, Авантюрист, №4, РУССКИЙ ДАР.
